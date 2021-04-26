@@ -29,26 +29,22 @@ Users should be able to:
 ### Screenshot
 
 ![Mobile View](./screenshots/mobile.png)
-![Tablet View](./screenshots/table.png)
+![Tablet View](./screenshots/tablet.png)
 ![Desktop View](./screenshots/desktop.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Cheeck out my Github repository](https://github.com/juani2/stats-preview-challenge--solution)
+- Live Site URL: [Check out my live site here](https://silly-heyrovsky-ddb68e.netlify.app/)
 
 ## My process
 
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
+- Vanilla CSS
 - Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+- Graceful degradation workflow
 
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
 
