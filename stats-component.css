@@ -78,6 +78,11 @@ body {
     margin-bottom: 1rem;
     color: var(--color-heading-text);
 }
+
+.text-accent{
+    color: var(--color-accent-text);
+}
+
 .stats-card .stats-card-content-body {
     line-height: 1.65;
     color: var(--color-copy-text);
